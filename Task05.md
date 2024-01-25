@@ -22,3 +22,18 @@ Stworzenie prostej, responsywnej witryny internetowej wykorzystującej framework
 
 ### 4. Stylowanie Dodatkowe
 - Możesz dodać własne style CSS, aby dostosować wygląd strony, ale większość stylowania powinna być realizowana za pomocą klas Bootstrapa.
+
+* Przydatne linki do podpięcia plików css oraz js
+
+```html
+ <head>
+...
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+...
+</head>
+```
+```html
+  ....
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+```
