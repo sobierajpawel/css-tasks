@@ -15,7 +15,7 @@ Celem zadania jest nauczenie się stosowania stylów CSS bezpośrednio w tagach 
    - **Przycisk (Button)**: Nadaj przyciskowi styl z kolorowym tłem, obramowaniem i innymi efektami według własnego wyboru.
 
 ### Dodatkowe Wyzwania
-- Eksperymentuj z różnymi właściwościami CSS, takimi jak `border-radius`, `font-family`, `text-align`.
+- Eksperymentuj z różnymi właściwościami CSS, takimi jak `border-radius`,  `text-align`.
 - Spróbuj stworzyć atrakcyjny wizualnie i spójny wygląd wszystkich elementów strony.
 
 ### Testowanie
