@@ -7,7 +7,7 @@ Stwórz nawigację oraz stopkę wraz z podstronami
 
 ### 1. Zadanie
 - Utwórz 3 pliki HTML w ramach którego dodasz wszystkie poprzednie ćwiczenia.
-- Dodaj nawigację oraz stopkę do aplikacji. Nawigacja powinna zostać wyświetlona na górzej stronie.
+- Dodaj nawigację oraz stopkę do aplikacji.
 - Stopkę dodaj na dole strony.
 - Uzupełnij nawigację o linki do podstron.
 - Wykorzystaj właściwości `position:fixed` do umiejscowienia stopki, nawigacji w stosunku do okna aplikacji.
